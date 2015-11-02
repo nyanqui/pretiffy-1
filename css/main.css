@@ -1,0 +1,63 @@
+
+
+/*header*/
+.p-4{
+	padding-left: 36%;
+}
+header a{
+	color: black;
+}
+/*hero-image*/
+.hero-image{
+	background: url("../images/background.jpg");
+	background-size: cover;
+	width: 100%;
+}
+.hero-image h1{
+	font-weight: 600;
+	color: white;
+	font-size: 4em;
+	padding: 1%;
+}
+.hero-image h3{
+	color: white;
+	font-size: 25px;
+}
+/*cover*/
+.cover{
+	background: url("../images/tile1.png");
+	
+	width: 100%;
+}
+.cover img{
+	width: 70%;
+	border: solid 3px  gray;
+}
+/*favorito*/
+.hover{
+	background: url("../images/tile2.png");
+	width: 100%;
+}
+.favorito img{
+	width: 60%;
+    border-radius: 50%;
+    border: solid 2px #FF1493;
+    padding: 1%;
+    margin-top: 3%;
+}
+.hover h2{
+	color: #FF1493;
+	font-weight: 500;
+	padding-bottom: 2%;}
+
+/*utilitis*/
+
+.pd-2{
+	padding: 2%;
+}
+.pd-5{
+	padding:5%;
+}
+.pd-10{
+	padding: 0% 30%;
+}
